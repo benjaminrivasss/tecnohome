@@ -8,3 +8,7 @@ width: 15rem;
   justify-content: end;
 }
 
+.navbar-nav{
+  justify-content: space-between 1.2rem;
+}
+
