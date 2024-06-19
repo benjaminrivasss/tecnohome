@@ -24,21 +24,16 @@
     justify-content: space-between;
     align-items: center;
     padding: 64px 0;
+    
   }
-  .select {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 10rem;
-    width: 35rem;
-  }
+ 
   
   line {
   }
   
   .imagen-titulo {
     display: block;
-    width: 17rem;
+    width: 20rem;
     height: 15rem;
   }
   
