@@ -29,4 +29,5 @@ width: 15rem;
 .weAre img{
   width: 100%;
   height: 30rem;
+  opacity: 0.5;
 }
