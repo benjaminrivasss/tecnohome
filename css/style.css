@@ -14,7 +14,7 @@ width: 15rem;
 }
 
 .navbar-nav{
-  justify-content: end;
   gap: 4rem;
+  text-align: right;
 }
 
