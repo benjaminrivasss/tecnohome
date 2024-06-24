@@ -11,7 +11,7 @@ width: 15rem;
 
 .collapse{
   display: flex;
-  align-content: end;
+  justify-content: end;
 }
 
 .navbar-nav{
