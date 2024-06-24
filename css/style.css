@@ -1,3 +1,4 @@
+
 .img-logo{
 height: 10rem;
 width: 15rem;
@@ -9,10 +10,12 @@ width: 15rem;
 }
 
 .collapse{
+  display: flex;
+  background-color: red;
   justify-content: end;
 }
 
 .navbar-nav{
-  gap: 4rem;
+ 
 }
 
