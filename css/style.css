@@ -10,12 +10,11 @@ width: 15rem;
 }
 
 .collapse{
-  justify-content: end;
+  display: flex;
+  align-content: end;
 }
 
 .navbar-nav{
-  display: flex;
-  align-content: end;
   gap: 4rem;
 }
 
