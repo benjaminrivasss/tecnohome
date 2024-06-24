@@ -4,10 +4,9 @@
   background-color: #171718;
 }
 
-.container{
-  background-color: #171718;
+.navbar {
+background-color:#171718 ;
 }
-
 .img-logo{
 height: 10rem;
 width: 15rem;
@@ -20,11 +19,13 @@ z-index: 2;
 
 .collapse{
   justify-content: end;
-  color: white ;
 }
 
 .navbar-nav{
   gap: 4rem;
+}
+
+.navbar-nav a{
   color: white;
 }
 
