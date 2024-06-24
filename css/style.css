@@ -7,10 +7,12 @@
 .navbar {
 background-color:#171718 ;
 }
+
 .img-logo{
 height: 10rem;
 width: 15rem;
 z-index: 2;
+color: white;
 }
 
 .img-logo:hover{
@@ -23,6 +25,8 @@ z-index: 2;
 
 .navbar-nav{
   gap: 4rem;
+  text-decoration: none;
+  justify-content: end;
 }
 
 .navbar-nav a{
