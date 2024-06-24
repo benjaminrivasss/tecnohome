@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  background-color: #171718;
 }
 
 .container{
@@ -10,7 +11,7 @@
 .img-logo{
 height: 10rem;
 width: 15rem;
-
+z-index: 2;
 }
 
 .img-logo:hover{
@@ -19,6 +20,7 @@ width: 15rem;
 
 .collapse{
   justify-content: end;
+  color: white ;
 }
 
 .navbar-nav{
