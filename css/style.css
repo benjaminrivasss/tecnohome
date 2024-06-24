@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 .img-logo{
 height: 10rem;
 width: 15rem;
@@ -17,6 +22,6 @@ width: 15rem;
 }
 
 .weAre{
-  width: 90%;
+  width: 20rem;
   height: 2rem;
 }
